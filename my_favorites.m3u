@@ -7,8 +7,6 @@ http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
 https://rgkkw.live:443/live/1Aoen7elp5/IgMJ60tmAa/742610.ts
 #EXTINF:0 type="stream" channelId="-1" name="Laliga TV" group="FIFA World Cup 2026 ⚽" logo="https://sm-live-tv-channel-logo.pages.dev/image/T_Sports.png", T Sports HD
 http://luckonline.eu/live/y49sz6KMQs/6115263489/1142.ts
-#EXTINF:0 type="stream" channelId="3893" group="FIFA World Cup Live", BTV HD
-http://103.14.151.101:11/manik-kuttar-baccha-telegram-batpar.m3u8
 #EXTINF:0 type="stream" channelId="2336" group="FIFA World Cup Live", TVP Sport HD
 http://91.146.94.234:10001/play/a07f
 #EXTINF:0 type="stream" channelId="371" group="FIFA World Cup 2026 ⚽", Now TV 4K
@@ -31,8 +29,6 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" channelId="3802" group="FIFA World Cup 2026 ⚽", TyC Sports
 https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", MATCH TV
-https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:0 type="stream" channelId="4620" group="Sports", Eleven Sports 1 4K
 http://91.146.94.234:10001/play/a05c
 #EXTINF:0 type="stream" channelId="3891" group="Sports" logo="https://i.ibb.co.com/HV2c1Cc/ziggosport.png", ZIGGO SPORT 1
@@ -229,8 +225,6 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 http://go8knm.optikl.ink/X/index.php/Besyria1/video.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Max1" group="FIFA World Cup 2026", Max1
 http://go8knm.optikl.ink/X/index.php/Besyria2/video.m3u8
-#EXTINF:0 type="stream" channelId="2336" group="FIFA World Cup Live", TVP Sport HD
-https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 #EXTINF:0 type="stream" channelId="-1" group="Premier League" logo="http://198.195.239.50/img/channels/star-sports-selected-1.png", STAR SPORTS SELECT 1 HD
 http://198.195.239.50:8095/StarSportsSelect1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Premier League" logo="http://198.195.239.50/img/channels/star-sports-selected-2.png", STAR SPORTS SELECT 2 HD
@@ -299,8 +293,6 @@ http://200.115.120.1:8000/play/a017/index.m3u8
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FIFA WC Backup" logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg", Somoy TV HD
 http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TSN 4
-https://himelhimuishere.pages.dev/fwc2k26.m3u8
 #EXTINF:0 type="stream" channelId="1607" group="FIFA World Cup 2026 ⚽", bein Sports 5 English
 http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
 #EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup 2026 ⚽" logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg", FUSSBALL.TV 1 HD
@@ -339,28 +331,12 @@ https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 http://107.150.60.122/live/cctv5hd.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://tv.cic.net.id/uploads/TV_OKEY_MY.png", OKEY TV
 http://iptv.kilas7.com/kaukia/asdfrewq/32
-#EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://mimipipi22.github.io/logo/sports/tvrisport.jpg", TVRI Sport
-http://103.148.44.38:8000/play/a05u/index.m3u8
-#EXTINF:0 type="stream" channelId="1226" group="FIFA World Cup Live", TVRI
-http://103.148.44.38:8000/play/a03t/index.m3u8
-#EXTINF:0 type="stream" channelId="553" name="МАТЧ! Футбол 1 HD" group="FIFA World Cup Live" logo="https://static.g-cdn.app/streams/match-futbol1-hd.png", Матч! ФУТБОЛ 1 HD
-http://31.148.48.15/Match_Futbol_1_HD/index.m3u8?token=test
 #EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://www.lyngsat.com/logo/tv/ss/supersport-1-al.png", SUPERSPORT 1 (ALB)
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
 #EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png", Arena Sport 1 Premium HD
 http://178.253.194.79:10001/
-#EXTINF:0 type="stream" channelId="70" name="FS1" group="FIFA World Cup Live" logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png", FS1
-http://41.223.30.230/FOXSPORTS1/index.m3u8
 #EXTINF:0 type="stream" channelId="3751" group="FIFA World Cup Live" logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Fox Deportes
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Coming Soon B
-https://cdn.fifalive.click/play.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", FIFA WC LIVE
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/0/master_3000.m3u8?hdntl=Expires=1782162518~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ8PMxuWx6AfADFHIVH_s92E_T1_dIAvLQ3OpiTCu8ZAcGOyeuXtbOm70zl99AWKzE7PbscnQOXonyTaycBfzcIK
-#EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", World Cup A1
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
-#EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Argentina Match Update
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1782201879~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AduQTZ_7SoXu33Jl8WoX6_fbtjKetaNOH0HEGlimMzfQIbzmst2wUXr10OEziHQ4lh2dXZE9onnVDuguqusVRZAHbAUF
 #EXTINF:0 type="stream" channelId="-1" name="Fussball Tv 2" group="FIFA" logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Fussball Tv 2 4K
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/742611.ts
 #EXTINF:0 type="stream" channelId="-1" name="Unite 8 Sports 1 HD" group="FIFA" logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Unite 8 Sports 1 HD
@@ -387,10 +363,6 @@ https://live05.msdht.app/live/24561735.m3u8
 http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV A
 http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Toffee
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_1750.m3u8?hdntl=Expires=1782580517~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdSbD449bwARmDYFHo0v1j6XMI0f3SjcsB_GpBWVWrywTXracuohdcxV8CsBwhNUBeJS_mmBAe1xtbC4065QoMH
-#EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Croatia vs Ghana Toffee
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/0/master_3000.m3u8?hdntl=Expires=1782667986~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvc37dFUKGbQ0dUdyGFB9e8j-pC4-UVmGLize49cKF1QHePFJ7ZhXcBlcL7j6OUeKfpDZr_4ITmtn-YUkJb8GMMM
 #EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", BTV B
 http://114.130.57.233:8080/manik-kutta-moharaza-kuttar-baccha-t.me/tvserverhd/video.m3u8?token=manik-kuttar-baccha-t.me/tvserverhd
 #EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV B
@@ -399,8 +371,6 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/745202.ts
 #EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", S Live Pass
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/745195.ts
-#EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Fussball 1
-http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/742610.ts
 #EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TSN 1 WC
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/748388.ts
 #EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Argentina vs Jordan Toffee
@@ -419,8 +389,6 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
 http://84.17.50.102/fox/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", PTV Sports B
 http://198.195.239.50:8095/Fifa-1/video.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="Unite 8 Sports 2 HD" group="FIFA World Cup Live" logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Unite8 Sports 2 HD
-http://212.102.34.8:9080/AndFlixHD/video.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://imgur.com/79g2kMA.png", DAZN 1
 http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/2531/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://imgur.com/79g2kMA.png", DAZN 5
@@ -453,15 +421,33 @@ http://91.146.94.234:10001/play/a131
 http://91.146.94.234:10001/play/a08y
 #EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live", Rai Sport 1 HD
 http://91.146.94.234:10001/play/ars1
-#EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Fussball Tv 1
+#EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", FUSSBALL.TV 1 4K
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
-#EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Fussball Tv 2
+#EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", FUSSBALL.TV 2 HD
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/1949446.ts
-#EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Brazil vs Japan Match Server
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1750.m3u8?hdntl=Expires=1782752427~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdkVLnF_1m2Dju5_Xgh1D-kL5L0X8ufa91GQfkVr3DjRjxYfYqbnR4ALyZPp8vwBrwDhOgbfcF3q36IERFRSWsE
-#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV NS
+#EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV NS
 http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8?token=4fde3d8957e50f434586227e0235025478768f0e-ed9e7afca3040a69f8179bfff33845e0-1776169971-1776166371
-#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", BTV NS
+#EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", BTV NS
 http://180.94.28.28:8097//BTV/index.fmp4.m3u8?token=8e9616c21d1ce3454bb9171c3c68550574f121aa-12a55987e1a817f2a4c12b2cfa6c3b78-1776169971-1776166371
 #EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://surl.li/kjoykq", BTV A
 http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg", BBC Sports WC
+http://103.72.65.229:8422/tv.cricflixs.com/index.m3u8
+#EXTINF:0 type="stream" channelId="2336" group="FIFA World Cup Live", TVP Sport HD
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+#EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://mimipipi22.github.io/logo/sports/tvrisport.jpg", TVRI Sport
+http://103.148.44.38:8000/play/a05u/index.m3u8
+#EXTINF:0 type="stream" channelId="1226" group="FIFA World Cup Live", TVRI
+http://103.148.44.38:8000/play/a03t/index.m3u8
+#EXTINF:0 type="stream" channelId="553" name="МАТЧ! Футбол 1 HD" group="FIFA World Cup Live" logo="https://static.g-cdn.app/streams/match-futbol1-hd.png", Матч! ФУТБОЛ 1 HD
+http://31.148.48.15/Match_Futbol_1_HD/index.m3u8?token=test
+#EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", World Cup A1
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+#EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", France vs Sweden Match Server
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/sst/0/master_1500.m3u8?hdntl=Expires=1782938087~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclA0d9I3gDbOQYIExgR19jonBf-E03c8Lc5AA4_d19wR3Gp2D7HFXivXafnhuTeXT2GRAmIqrqCTl0VcGWHUmNcJ
+#EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", T Sports HD
+http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bioscope+ WC
+https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index_2.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="FIFA World Cup Live" logo="https://shorturl.at/NPoFh", IRIB 4K
+https://live-aburayhan1103.telewebion.ir/ek/faratar/live/playlist.m3u8?isp=NA&city=NA
