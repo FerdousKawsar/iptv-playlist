@@ -18,7 +18,7 @@ http://198.195.239.50:8095/tsports/index.m3u8
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfw1SdojRL5Ce00-Up9w5XN97jTYNfT3qZIXHzurK7i5azpXQrN8m12XVleYpF5lT_PqltjL3kZy7QYazftT9UDlSCBOL8SAx76Rq8Vjgk7RkMB_kQLFZEw3ErrUkvbWMhtYsuN-yF_KEHw88gCqOICMp7uPxRnEoKe0SinvMogK5CYHn3T5oJsaZSEg/s1080/1000057886.png", D Sports
 https://m.mxonlive.xyz/nexusstream/ch08.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg", Unite8 Sports 1 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg", PTV SPORTS HD
 http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg", Mahsun Sports
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
@@ -112,7 +112,7 @@ http://103.148.44.38:8000/play/a03t/index.m3u8
 http://31.148.48.15/Match_Futbol_1_HD/index.m3u8?token=test
 #EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", World Cup A1
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
-#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", France vs Sweden Match Server
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Toffee Today
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/sst/0/master_1500.m3u8?hdntl=Expires=1782938087~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclA0d9I3gDbOQYIExgR19jonBf-E03c8Lc5AA4_d19wR3Gp2D7HFXivXafnhuTeXT2GRAmIqrqCTl0VcGWHUmNcJ
 #EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", T Sports HD
 http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1
