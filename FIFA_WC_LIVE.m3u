@@ -1,0 +1,122 @@
+#EXTM3U
+
+#EXTINF:0 type="stream" channelId="2309" group-title="FIFA World Cup Live" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png", RSI LA 2 HD
+http://91.146.94.234:10001/play/a0jo
+#EXTINF:0 type="stream" channelId="2336" group-title="FIFA World Cup Live" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png", TVP Sport HD
+http://91.146.94.234:10001/play/a07f
+#EXTINF:0 type="stream" channelId="1525" group-title="FIFA World Cup Live" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png", TVP 2 HD
+http://91.146.94.234:10001/play/a09f
+#EXTINF:0 type="stream" channelId="1524" group-title="FIFA World Cup Live" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png", TVP 1 HD
+http://91.146.94.234:10001/play/a09e
+#EXTINF:0 type="stream" channelId="1524" group-title="FIFA World Cup Live" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png", TVP 1 HD (au)
+http://91.146.94.234:10001/play/a0c2
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg", Somoy TV HD
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://i.ibb.co/h1Wvy09C/1000283988.png", T Sports HD
+http://198.195.239.50:8095/tsports/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://i.ibb.co.com/9JJ04g9/1000284076.png", Turkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfw1SdojRL5Ce00-Up9w5XN97jTYNfT3qZIXHzurK7i5azpXQrN8m12XVleYpF5lT_PqltjL3kZy7QYazftT9UDlSCBOL8SAx76Rq8Vjgk7RkMB_kQLFZEw3ErrUkvbWMhtYsuN-yF_KEHw88gCqOICMp7uPxRnEoKe0SinvMogK5CYHn3T5oJsaZSEg/s1080/1000057886.png", D Sports
+https://m.mxonlive.xyz/nexusstream/ch08.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg", Unite8 Sports 1 HD
+http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg", Mahsun Sports
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://epg.v1.mk/logo/cctv5.png", CCTV 5 HD
+http://107.150.60.122/live/cctv5hd.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://tv.cic.net.id/uploads/TV_OKEY_MY.png", OKEY TV
+http://iptv.kilas7.com/kaukia/asdfrewq/32
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-1-al.png", SUPERSPORT 1 (ALB)
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png", Arena Sport 1 Premium HD
+http://178.253.194.79:10001/
+#EXTINF:0 type="stream" channelId="3751" group-title="FIFA World Cup Live" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Fox Deportes
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:0 type="stream" channelId="3791" group-title="FIFA World Cup Live" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", T Sports
+http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV A
+http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", BTV B
+http://114.130.57.233:8080/manik-kutta-moharaza-kuttar-baccha-t.me/tvserverhd/video.m3u8?token=manik-kuttar-baccha-t.me/tvserverhd
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV B
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Unite 8 Sports B HD
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/745202.ts
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", S Live Pass
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/745195.ts
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TSN 1 WC
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/748388.ts
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", T Sports HD
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV
+http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:0 type="stream" channelId="2335" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TVP Sport
+https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", TSN 1
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
+#EXTINF:0 type="stream" channelId="170" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Fox Sports 2
+http://84.17.50.102/fox/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", PTV Sports B
+http://198.195.239.50:8095/Fifa-1/video.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imgur.com/79g2kMA.png", DAZN 1
+http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/2531/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imgur.com/79g2kMA.png", DAZN 5
+http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/2535/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imgur.com/a/zy7j72S", Soco Live
+https://pull.niues.live/live/stream-534219_lhd.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://b6.crichd.tv/assets/images/logo-front.png", Bioscope+ SD
+https://cricxtv.fun/bioscope.php?file=index_3.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg", Kiansport 1
+http://93.93.113.95:25461/live/TV-Berati/XtreamCodes/495.ts
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/82/Bioscope%2B.png", Bioscope+ HD
+https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png", PTV Sports WC
+https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg", Now TV 4K WC
+http://fastshare1.com:8080/live/25711345/late8airline/745270.ts
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg", Rai 4K
+http://fastshare1.com:8080/live/25711345/late8airline/688287.ts
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg", Unite8 Sports 2 HD
+http://114.130.57.233:8080/unitedsports-bdixbd.net/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg", CCTV 5 HD
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+#EXTINF:0 type="stream" channelId="1591" group-title="FIFA World Cup Live" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg", beIN SPORTS 1
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png", Rai 1 4K
+http://91.146.94.234:10001/play/a131
+#EXTINF:0 type="stream" channelId="2215" group-title="FIFA World Cup Live" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png", Rai 1 HD
+http://91.146.94.234:10001/play/a08y
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png", Rai Sport 1 HD
+http://91.146.94.234:10001/play/ars1
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", FUSSBALL.TV 1 4K
+http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", FUSSBALL.TV 2 HD
+http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/1949446.ts
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV NS
+http://180.94.28.28:8097/Somoy-TV/index.fmp4.m3u8?token=4fde3d8957e50f434586227e0235025478768f0e-ed9e7afca3040a69f8179bfff33845e0-1776169971-1776166371
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", BTV NS
+http://180.94.28.28:8097/BTV/index.fmp4.m3u8?token=8e9616c21d1ce3454bb9171c3c68550574f121aa-12a55987e1a817f2a4c12b2cfa6c3b78-1776169971-1776166371
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", BTV A
+http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg", BBC Sports WC
+http://103.72.65.229:8422/tv.cricflixs.com/index.m3u8
+#EXTINF:0 type="stream" channelId="2336" group-title="FIFA World Cup Live" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png", TVP Sport HD
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://mimipipi22.github.io/logo/sports/tvrisport.jpg", TVRI Sport
+http://103.148.44.38:8000/play/a05u/index.m3u8
+#EXTINF:0 type="stream" group-title="FIFA World Cup Live" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png", TVRI
+http://103.148.44.38:8000/play/a03t/index.m3u8
+#EXTINF:0 type="stream" channelId="553" group-title="FIFA World Cup Live" tvg-logo="https://static.g-cdn.app/streams/match-futbol1-hd.png", Матч! ФУТБОЛ 1 HD
+http://31.148.48.15/Match_Futbol_1_HD/index.m3u8?token=test
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", World Cup A1
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", France vs Sweden Match Server
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/sst/0/master_1500.m3u8?hdntl=Expires=1782938087~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclA0d9I3gDbOQYIExgR19jonBf-E03c8Lc5AA4_d19wR3Gp2D7HFXivXafnhuTeXT2GRAmIqrqCTl0VcGWHUmNcJ
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", T Sports HD
+http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bioscope+ WC
+https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index_2.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://shorturl.at/NPoFh", IRIB 4K
+https://live-aburayhan1103.telewebion.ir/ek/faratar/live/playlist.m3u8?isp=NA&city=NA
