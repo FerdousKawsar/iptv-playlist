@@ -200,3 +200,28 @@ http://fastshare1.com/live/25711345/late8airline/744526.ts
 http://fastshare1.com/live/25711345/late8airline/744527.ts
 #EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bein Sports 6 FHD
 http://fastshare1.com/live/25711345/late8airline/744528.ts
+#EXTINF:0 type="stream" channelId="1328" group-title="FIFA World Cup Live" tvg-logo="", FOX Sports
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg", Now TV 4K A
+http://fastshare1.com/live/25711345/late8airline/745270.ts
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg", Toffee 3
+https://kazimmt.ami.bd/playlist/TF/TF-1.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg", FUSSBALL.TV 1 WC
+http://fastshare1.com/live/25711345/late8airline/742610.ts
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg", FUSSBALL.TV 2 WC
+http://fastshare1.com/live/25711345/late8airline/742611.ts
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://i.imgur.com/53aSeDH.png", Toffee 2
+https://cdn-tt.pages.dev/ch1.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png", Unite8 Sports 2 FWC
+http://180.94.28.28:8097/Fifa-2026/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://i.imgur.com/OoSUg78.png", TV Globo Sao Paulo (1080p)
+http://187.62.68.32:8080/GLOBO/index.m3u8
+#EXTINF:0 type="stream" channelId="960" group-title="FIFA World Cup Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/960px-ORF_1_2019.svg.png", ORF 1
+http://88.212.15.19/live/test_orf_eins_tizen/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://i.imgur.com/DXKx102.png", Sigma TV (576p) [Not 24/7]
+https://sl2.sigmatv.com/hls/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/960px-IRIB_FARATAR_UHD.png", IRIB UHD (2160p)
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1000" group-title="FIFA World Cup Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png", Rai 1 (720p)
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+
