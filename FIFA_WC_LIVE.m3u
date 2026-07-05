@@ -142,3 +142,5 @@ http://180.94.28.28:8097/BTV/index.fmp4.m3u8
 http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/756462
 #EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png", T Sports 4
 http://fastshare1.com:8080/live/25711345/late8airline/52500.ts
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Brazil vs Norway Match Toffee
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdntl=Expires=1783352720~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclBUUq9wTD-jaDHZTdKJmwjYa0sbQ187VZq_j3clvSFjAFcIaP__EUU1mh9pTuCtJP-SG9fE4lHfmY1rV4IgD9MD
