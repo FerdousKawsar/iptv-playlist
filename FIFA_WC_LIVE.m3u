@@ -80,5 +80,5 @@ http://213.152.185.148/tsn4/index.m3u8
 http://143.244.62.109/rts1/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", HRT 2
 http://143.244.62.109/hrt2/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", AS 2 Premium
+#EXTINF:0 type="stream" channelId="-1" group-title="FIFA World Cup Live" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", AS 1 Premium
 http://143.244.62.109:80/as1premium/index.m3u8
