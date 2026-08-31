@@ -5,7 +5,5 @@ https://s3.itcnbd.live/server-6/stream/resource/aHR0cDovLzE3Mi4xNi4yMDAuMjA1Ojgw
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-sports-select-1-hd-in.png" group-title="Premier League",Star Sports Select 1 HD
 https://s3.itcnbd.live/server-6/stream/resource/aHR0cDovLzE3Mi4xNi4yMDAuMjA1OjgwODgvMTIzL3RyYWNrcy12MWExL21vbm8ubTN1OD90b2tlbj1kOWJkY2FlMTlhMTg1ZDFmN2UxOTY5YTUwZjVkZWVjOGEwZjc0NDg5LTUzNWY4NDJlNGY5YjFjNmNkYzU2NDlmNWM3YjZiMGEwLTE3ODgxNDEyMjItMTc4ODEzNzYyMg
-#EXTINF:-1 group-title="Premier League", Aston Villa vs Arsenal Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://embed.st/
-https://cdn13.zohanayaan.com:1686/hls/mevent11.m3u8?md5=DjRWaYHeCPcDVSuU9-SRrg&expires=1788218783
+#EXTINF:-1 group-title="Premier League",Aston Villa vs Arsenal - Stream 1
+https://lb12.strmd.st/secure/jlOnNqLiRHFWCSftQrESDxAcmzewsXUz/admin/stream/ppv-aston-villa-vs-arsenal/1/playlist.m3u8
